@@ -1,1 +1,1 @@
-# devopsthumb
+# devops.thumb
