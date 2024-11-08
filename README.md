@@ -3,7 +3,7 @@
 - Web Developer 👍
 - DevOps Engineer 🧑🏽‍💻
 - [DokcerHub](https://hub.docker.com/u/devthumb) 📎
-
+- [dev.thumb](https://github.com/devthumb)
 ## 📚 ***Skills***
 ---
 <div>
