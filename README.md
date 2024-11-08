@@ -1,1 +1,1 @@
-# devoptsthumb
+# devopsthumb
